@@ -2,6 +2,7 @@
   <div class="container-fluid">
     <section class="row">
       <div class="col-12 text-center">
+        <TitleComponent />
         <img @click="mineCheese()" class="rounded-circle"
           src="https://images.unsplash.com/photo-1618439832239-24b550c7af56?auto=format&fit=crop&q=80&w=2187&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="MOON">
